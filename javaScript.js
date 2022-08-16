@@ -1,5 +1,5 @@
 const url= 'https://api.openweathermap.org/data/2.5/' 
-const key= 'f1d06781f6a73db6287ba5dab27e6b45'
+const key= ''
 const setQuery= (e)=>{
     if(e.keyCode=='13')
     getResult(searchBar.value)
